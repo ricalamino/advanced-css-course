@@ -1,1 +1,3 @@
 bash.exe.stackdump
+/node_modules
+package-lock.json
